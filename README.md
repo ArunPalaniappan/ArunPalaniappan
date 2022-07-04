@@ -1,7 +1,7 @@
-### Hola! it's Arun here 👋
-👨🏻‍💻 Data Science Intern at ITC Ltd., Chennai
-🔭 Deep Learning & Data Science Enthusisast
-🏌🏻‍♀️ I play Badminton, Table Tennis & Cricket
+### Hola! it's Arun here 👋  
+👨🏻‍💻 Data Science Intern at ITC Ltd., Chennai  
+🔭 Deep Learning & Data Science Enthusisast  
+🏌🏻‍♀️ I play Badminton, Table Tennis & Cricket  
 <!--
 **ArunPalaniappan/ArunPalaniappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
