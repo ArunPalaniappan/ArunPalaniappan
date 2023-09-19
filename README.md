@@ -1,5 +1,5 @@
 ### Hola! it's Arun here 👋  
-- 👨🏻‍💻 Data Science Intern at ITC Ltd. Chennai  
+- 👨🏻‍💻 NLP Research Intern at NoBroker, Bangalore  
 - 🔭 Deep Learning & Data Science Enthusiast  
 - 🏌🏻‍♀️ I play Badminton, Table Tennis & Cricket  
 <!--
