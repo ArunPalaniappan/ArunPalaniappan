@@ -1,5 +1,5 @@
 ### Hola! it's Arun here 👋  
-- 👨🏻‍💻 NLP Research Intern at NoBroker, Bangalore  
+- 👨🏻‍💻 NLP Intern at NoBroker, Bangalore  
 - 🔭 Deep Learning & Data Science Enthusiast  
 - 🏌🏻‍♀️ I play Badminton, Table Tennis & Cricket  
 <!--
